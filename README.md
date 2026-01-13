@@ -5,7 +5,7 @@ This repository contains the reproduction code for the manuscript:
 
 ---
 
-## 📋 General Information
+## General Information
 
 - **Software:** R version 4.4.3
 - **Data Requirements:** None. All data are simulated within the scripts. 
@@ -19,7 +19,7 @@ No manual edits are required to run the primary analysis. However, parameters ca
 
 ---
 
-## 📂 File Structure & Contents
+## File Structure & Contents
 
 The R scripts below reproduce the specific sections and figures cited in the paper. Each `.R` file can be run in isolation.
 
@@ -54,7 +54,7 @@ A local directory where all figures and numerical outputs are automatically save
 
 ---
 
-## 💻 Computational Environment & Dependencies
+## Computational Environment & Dependencies
 
 The primary analysis was conducted using **R version 4.4.3** on Ubuntu 22.04.5 LTS.
 
